@@ -2,7 +2,7 @@ The purpose of this repository is to collect as many OS logos as possible. Prefe
 
 Everything collected in a single layered PDF file.
 
-#### Logos so far:
+## Logos so far:
 **VECTOR**
 * Android
 * Apple TV
@@ -15,5 +15,35 @@ Everything collected in a single layered PDF file.
 * CentOS
 * Chrome
 * CyanogenMod
+* Debian
 * DS (Nintendo)
 * Fedora
+* iOS
+* Knoppix
+* Kubuntu
+* Linux
+* Linux Mint
+* Lubuntu
+* MacOS (Legacy)
+* Maemo
+* MeeGo
+* NetBSD
+* OS/2
+* OSX
+* Palm OS
+* PlayStation
+* RedHat
+* Sailfish OS
+* Solaris
+* SUSE
+* Symbian
+* Tizen
+* Ubuntu
+* Web OS
+* Wii (Nintendo)
+* Xbox
+* Xubuntu
+* YunOS
+* Vector Linux
+* Windows (circa 7)
+* Windows (Modern)
